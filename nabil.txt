@@ -1,0 +1,15 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 221D-7C3F
+
+ R‚pertoire de C:\Users\fennoun\eclipse-workspace\DesignPaterndemo
+
+05/09/2019  12:22    <REP>          .
+05/09/2019  12:22    <REP>          ..
+04/09/2019  19:19               301 .classpath
+04/09/2019  19:19               392 .project
+04/09/2019  19:19    <REP>          .settings
+04/09/2019  19:19    <REP>          bin
+05/09/2019  12:22                 0 nabil.txt
+04/09/2019  19:19    <REP>          src
+               3 fichier(s)              693 octets
+               5 R‚p(s)  26ÿ207ÿ580ÿ160 octets libres
